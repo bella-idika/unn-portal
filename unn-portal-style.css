@@ -3,6 +3,10 @@
   align-items: center;
   height: 100%;
 }
+.grid{
+  display: flex;
+  color: green;
+}
 .nav-content {
   display: flex;
   align-items: center;
